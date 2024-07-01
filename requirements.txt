@@ -1,1 +1,10 @@
+#### `requirements.txt`
 
+```plaintext
+pandas
+numpy
+matplotlib
+seaborn
+geopandas
+folium
+jupyter
